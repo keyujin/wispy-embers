@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://keyujin.github.io/gallery/"  
-  - JOURNAL: "https://keyujin.github.io/journal/"
-  - ABOUT: "https://keyujin.github.io/about/"
+  - GALLERY: "https://keyujin.github.io/wispy-embers/gallery/"  
+  - JOURNAL: "https://keyujin.github.io/wispy-embers/journal/"
+  - ABOUT: "https://keyujin.github.io/wispy-embers/about/"
 
 # All translation keys
 translations:
