@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: ZOEMANCER
 email: ""
 description: "Photo Journal"
 url: "https://zoemancer.com"
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
-  avatar: avatar.png
-  favicon: favicon.ico
-  info: photography website template
+  name:     soji
+  avatar:   avatar.png
+  favicon:  favicon.gif
+  info:     photography website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
