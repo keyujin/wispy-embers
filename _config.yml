@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://keyujin.github.io"
+url: "https://zoemancer.com"
 baseurl: "/"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://keyujin.github.io/wispy-embers/gallery/"  
-  - JOURNAL: "https://keyujin.github.io/wispy-embers/journal/"
-  - ABOUT: "https://keyujin.github.io/wispy-embers/about/"
+  - GALLERY: "https://zoemancer.com/gallery/"  
+  - JOURNAL: "https://zoemancer.com.com/journal/"
+  - ABOUT: "https://zoemancer.com/about/"
 
 # All translation keys
 translations:
